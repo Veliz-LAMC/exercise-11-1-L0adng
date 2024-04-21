@@ -15,7 +15,7 @@ body {
     background-color: #fffded;
 }
 figure {
-	float: left;
+	float: right;
 	margin-right: 1.5em; }
 figcaption {
 	display: block;
